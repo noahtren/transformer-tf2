@@ -1,0 +1,9 @@
+# environment
+.vscode/
+__pycache__/
+
+# data
+test_ds/
+
+# logging
+logs/
